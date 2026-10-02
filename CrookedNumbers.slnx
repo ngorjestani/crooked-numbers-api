@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/CrookedNumbers.Api/CrookedNumbers.Api.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/CrookedNumbers.Api.Tests/CrookedNumbers.Api.Tests.csproj" />
+  </Folder>
+</Solution>
